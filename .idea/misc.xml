@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/custom_.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/custom_baseline_icon.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/custom_email_icon.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/custom_input.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/custom_sms_icon.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_baseline_focused.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_baseline_subject_24.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_email.xml" value="0.249" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_email_focused.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_sms.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/drawable/ic_sms_focused.xml" value="0.2395" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/usuba/AndroidStudioProjects/lesson322/app/src/main/res/layout/toolbar.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
